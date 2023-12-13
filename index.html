@@ -8,11 +8,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MunaCast</title>
+    <title>WeatherCast</title>
     <meta name="title" content="MunaCast">
     <meta name="description" content="Accurate forecasts at your fingertips.
     Stay informed with real-time weather updates and make confident decisions.
-    made by frontendgeek">
+    ">
 
     <!--
         favicon
@@ -63,8 +63,10 @@
                     </button>
                 </div>
 
-                <div class="search-result" data-search-result>
-                    <ul class="view-list" data-search-list>
+        
+
+                             <div class="search-result" data-search-result>
+                                <ul class="view-list" data-search-list>
 
                         <li class="view-item">
                             <span class="m-icon">location_on</span>
@@ -78,7 +80,7 @@
                             <a href="#" class="item-link has-state" data-search-toggler></a>
                         </li>
                     </ul>
-                </div>
+                </div> 
             </div>
 
             <div class="header-actions">
@@ -96,7 +98,17 @@
         </div>
 
 
-    </header>
+    </header>  
+
+
+
+    <label for="city" class="label-container">
+        <form>
+        <input type="text" placeholder="Enter your city" id="city" required/>
+        </form>
+    </label>
+    <button id="get-weather" class="btn">Get Weather</button>
+    <div id="container">
 
 
 

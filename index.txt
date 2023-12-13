@@ -1,7 +1,7 @@
 MunaCast
 Accurate forecasts at your fingertips.
 Stay informed with real-time weather updates and make confident decisions.
-made by frontendgeek 
+
 
 
 
