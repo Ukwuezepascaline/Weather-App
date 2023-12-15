@@ -45,13 +45,4 @@ Open with live server
 
 ```bash
   npm run start
-```
-
-
-## Authors
-
-- [@Frontendgeek](https://www.github.com/Muideen7)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+``
