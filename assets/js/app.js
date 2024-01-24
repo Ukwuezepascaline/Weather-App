@@ -1,5 +1,1 @@
-/**
- * @license MIT
- * @copyright codewithsadee 2023 All rights reserved
- * @author codewithsadee <mohammadsadee24@gmail.com>
- */
+const key = "24a78c19b12e40f299c172444242401"
